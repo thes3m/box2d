@@ -1,0 +1,1 @@
+For more information how to use this library please check wiki.
