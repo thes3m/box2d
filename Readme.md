@@ -1,1 +1,3 @@
-For more information how to use this library please check wiki.
+###About
+
+For more information how to include Box2D in your iOS project please check wiki.
